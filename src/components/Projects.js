@@ -2,7 +2,7 @@ import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 
-import projImg1 from "../assets/images/Alan-Shearer.jpeg"
+import projImg1 from "../assets/images/Project1image.png"
 import projImg2 from "../assets/images/Project2image.png"
 import projImg3 from "../assets/images/Project3image.png"
 import projImg4 from "../assets/images/Project4image.png"
