@@ -22,9 +22,9 @@ const NavBar = () => {
           <Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#home"><img src={email} alt="" /></a>
-                <a href="#about"><img src={github} alt="" /></a>
-                <a href="#projects"><img src={linkedIn} alt="" /></a>
+                <a href="mailto: chrainey22@gmail.com"><img src={email} alt="" /></a>
+                <a href="https://github.com/chrainey"><img src={github} alt="" /></a>
+                <a href="https://www.linkedin.com/in/chris-s-rainey/"><img src={linkedIn} alt="" /></a>
               </div>
             </span>
           </Nav>

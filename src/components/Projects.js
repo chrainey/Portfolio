@@ -48,7 +48,7 @@ const Projects = () => {
       <h1 className='projects-title'>My Projects</h1>
       <Row >
         {projects.map((projects, index) => (
-          <Col sm='12' md='12' lg='6'>
+          <Col sm='12' md='12' lg='6' d-flex align-items-stretch>
             <Card className='mb-4' key={index}>
               <Card.Img className='card-images' variant="top" src={projects.imgUrl} />
               <Card.Body>
