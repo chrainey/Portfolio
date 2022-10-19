@@ -111,7 +111,8 @@ border-color: transparent;
 /* BANNER */
 .banner {
   margin-top: 0;
-  padding: 100px 0 100px 0;
+  padding: 50px 0 20px 0;
+  height: 100%;
   
 }
 .banner .tagline {
@@ -192,7 +193,7 @@ border-color: transparent;
 
 .my-image {
   border-radius: 100px;
-  width: 100%;
+  width: 400px;
   height: 40vh;
 }
 
@@ -207,7 +208,7 @@ border-color: transparent;
 .about-header {
   margin: 3vh;
   font-weight: bolder;
-  font-size: 100px;
+  font-size: 75px;
 }
 
 
@@ -247,7 +248,7 @@ border-color: transparent;
 .interests-header {
   margin: 3vh;
   font-weight: bolder;
-  font-size: 100px;
+  font-size: 75px;
   
 }
 
@@ -346,7 +347,7 @@ border-color: transparent;
 .skills-title {
   margin: 5vh;
   font-weight: bolder;
-  font-size: 100px;
+  font-size: 75px;
 }
 
 .icon-main {
@@ -400,6 +401,7 @@ border-color: transparent;
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
+  
 }
 
 .project-icons {
@@ -413,13 +415,13 @@ border-color: transparent;
 }
 
 .row {
-  max-width: 1800px;
+  max-width: 1200px;
 }
 
 .projects-title {
   margin: 3vh;
   font-weight: bolder;
-  font-size: 100px;
+  font-size: 75px;
 }
 
 /* FOOTER */
