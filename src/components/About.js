@@ -1,5 +1,6 @@
 import PercySun from '../assets/images/percysun.jpg'
 import PercyBeach from '../assets/images/percybeach.jpg'
+import PercyGarden from '../assets/images/percy-garden.jpg'
 import Ewood from '../assets/images/ewoodpark.jpeg'
 import Grounded from '../assets/images/grounded.jpeg'
 import Boat from '../assets/images/boat.jpeg'
@@ -27,7 +28,7 @@ const CarouselDog = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={PercyBeach}
+          src={PercyGarden}
           alt='Dog-on-beach'
         />        
       </Carousel.Item>
