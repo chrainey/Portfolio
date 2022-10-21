@@ -25,6 +25,7 @@ const projects = [
     description: "For this project, in a team using GitHub, we built our own API and front end website as a Travel Database app. This included user and authentication features using JSL tokens. We also used AWS and Cloudinary to store images for the database. I was responsible for the look and styling off the app along with building many of the frontend components.",
     imgUrl: projImg3,
     link: 'https://sei65-destinations.netlify.app/',
+    gitLink: 'https://github.com/chrainey/SEI-Project-3-Travel-Frontend',
   },
   {
     title: "Cocktail Recipe Database",
